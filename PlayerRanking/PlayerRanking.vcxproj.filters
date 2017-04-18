@@ -29,10 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Teoria.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Teoria2.cpp">
+    <ClCompile Include="PlayerRanking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
